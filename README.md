@@ -15,7 +15,7 @@ A small Next.js app for tracking golf Stableford scores, entering monthly prize 
 1. Clone repo
 
 ```bash
-git clone [<repo-url>](https://github.com/kartikrathod23/golf-charity-platform.git)
+git clone https://github.com/kartikrathod23/golf-charity-platform.git
 cd golf-charity-platform
 ```
 
